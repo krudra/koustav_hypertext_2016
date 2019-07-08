@@ -27,5 +27,6 @@ NOTE:
 	A. Set the paths accordingly
 	B. In all the codes set the Twitter Tagger path accordingly
 	C. Demo directory contains some sample files just to demonstrate format of files passing from one module to the next one. To generate summaries kindly apply the methods over original dataset.
+	D. For the path generation module [TwitterSumm], kindly drop a mail.
 
 Queries: koustav.rudra@cse.iitkgp.ernet.in  [Path generation module was originally developed by Siddhartha Banerjee. If you have any queries regarding path generation step kindly forward queries to sbanerjee@ist.psu.edu]
